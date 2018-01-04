@@ -1,0 +1,44 @@
+[
+  {
+  "day":"Sun",
+  "tem":"21",
+  "weather": "1",
+  "description":"Sunny"
+  },
+  {
+    "day":"Mon",
+    "tem":"14",
+    "weather": "2",
+    "description":"Cloudy"
+  },
+  {
+    "day":"Tue",
+    "tem":"18",
+    "weather": "2",
+    "description":"Cloudy"
+  },
+  {
+    "day":"Wen",
+    "tem":"22",
+    "weather": "3",
+    "description":"Rain"
+  },
+  {
+    "day":"Thu",
+    "tem":"20",
+    "weather": "2",
+    "description":"Overcast"
+  },
+  {
+    "day":"Fri",
+    "tem":"10",
+    "weather": "4",
+    "description":"Drizzle"
+  },
+  {
+    "day":"Sat",
+    "tem":"25",
+    "weather": "1"
+    ,"description":"Sunny"
+  }
+]

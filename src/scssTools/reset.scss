@@ -1,0 +1,23 @@
+@font-face{font-family:'MuseoSans-Bold';src:local('MuseoSansCyrl-900'),url('https://nomail.com.ua/files/woff/73e5c73d4e80e6c080cd1bc5894cf3e8.woff') format('woff');}
+@font-face{font-family:'MuseoSans-Normal';src:local('MuseoSansCyrl-500'),url('https://nomail.com.ua/files/woff/02f7d6b8e3cda79742b374cbc5595a8f.woff') format('woff');}
+@font-face{font-family:'MuseoSans-Light';src:local('MuseoSansCyrl-100'),url('https://nomail.com.ua/files/woff/1913b09835e902f7123ad3ac38b4cd93.woff') format('woff');}
+
+
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+html, body, #mount-point {
+  height: 100%;
+  min-height: 100%;
+  width: 100%;
+}
+
+a,p,span,div,li{
+  font-family:'MuseoSans-Light'
+}
+h1,h2,h3,h4,h5,h6 {
+  font-family: 'MuseoSans-Bold';
+}
